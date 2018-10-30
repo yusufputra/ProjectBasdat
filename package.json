@@ -5,6 +5,7 @@
   "dependencies": {
     "ajv": "^6.5.4",
     "express": "^4.16.4",
+    "mysql": "^2.16.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-router": "^4.3.1",
